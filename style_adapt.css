@@ -1,0 +1,2193 @@
+@media screen and (max-width: 320px) {
+
+body{ 
+
+    width: 100%;
+    height: 678px;
+
+}
+
+
+.registration {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 0;
+
+}
+
+.title_signup {
+
+    width: 100%;
+    height: 81px;
+    left: 0%;
+    top: 0%;
+
+}
+
+.title_SU {
+
+    width: 90%;
+    height: 63px;
+    left: 20px;
+    right: 0;
+    top: -10%;
+    font-size: 39px;
+    transform: rotate(0);
+
+}
+
+.signup {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 50px;
+
+}
+
+.form_su {
+
+    width: 100%;
+    height: 409px;
+    left: 0;
+    right: 22px;
+    top: 38.52px;
+    bottom: 32.48px;
+
+}
+
+.title_form {
+
+    width: 90%;
+    height: 26px;
+    left: 20px;
+    right: 77.32%;
+    top: calc(50% - 26px/2 - 211.5px);
+
+}
+
+.paragraph_form {
+
+    width: 90%;
+    height: 16px;
+    left: 20px;
+    right: 41.03%;
+    top: calc(50% - 16px/2 - 190.5px);
+ 
+}
+
+.form_name {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 40px;
+
+}
+
+.form_first_name {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 15.16%;
+    bottom: 74.57%;
+
+}
+
+.first_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0%;
+    right: 73.62%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_fn {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.17%;
+    right: 0.04%;
+    top: 79.76%;
+    bottom: -1.43%;
+
+}
+
+.form_ln {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 50px;
+    bottom: 74.57%;
+
+}
+
+.last_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 73.88%;
+    top: calc(50% - 14px/2 - 13.7px);
+
+}
+
+.input_ln {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_ne {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 135px;
+
+}
+
+.form_nat {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 29.34%;
+    bottom: 60.39%;
+
+}
+
+.nation {
+
+    height: 14px;
+    left: 0.17%;
+    right: 74.3%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_nation {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.input_nation option {
+
+    height: 16px;
+    left: 0.17%;
+    right: 72.17%;
+    top: calc(50% - 16px/2 + 5.67px);
+
+}
+
+.form_email {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 60px;
+    bottom: 60.39%;
+
+}
+
+.email {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 84.01%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_email {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_dbg {
+
+    width: 165px;
+    height: 43px;
+    left: 20px;
+    top: 238px;
+
+}
+
+.form_db {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 43.52%;
+    bottom: 45.97%;
+
+}
+
+.birth {
+
+    width: 82px;
+    height: 14px;
+    left: 0%;
+    right: 69.79%;
+    top: calc(50% - 14px/2 - 14.5px);
+
+}
+
+.input_data_birth {
+
+    width: 56px;
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_month_birth {
+
+    width: 91px;
+    height: 16px;
+    left: 25%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_year_birth {
+
+    width: 68px;
+    height: 16px;
+    left: 70.89%;
+    right: 0.17%;
+    top: 96.96%;
+    bottom: 1.63%;
+
+}
+
+.form_gen {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 80px;
+    bottom: 46.21%;
+
+}
+
+.gender {
+
+    height: 14px;
+    left: 0%;
+    right: 82.63%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.gender_male {
+
+    left: 0%;
+    right: 66.53%;
+    top: 45.95%;
+
+}
+
+.gender_female {
+
+    width: 80px;
+    left: 29.66%;
+    right: 41.1%;
+    top: 45.95%;
+
+}
+
+.f_pass {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 367px;
+
+}
+
+.password {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 57.95%;
+    bottom: 31.78%;
+
+}
+
+.title_pass {
+
+    height: 14px;
+    left: 0%;
+    right: 77.02%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_pass {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.confirm_pass {
+
+    width: 236px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 70px;
+    bottom: 31.78%;
+
+}
+
+.title_conf {
+
+    width: 122px;
+    height: 14px;
+    left: 0%;
+    right: 56.36%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_conf {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.59%;
+    right: 0.04%;
+    top: 79.05%;
+    bottom: -0.71%;
+
+}
+
+.login {
+
+    width: 167px;
+    height: 15px;
+    left: 20px;
+    right: 14.14%;
+    top: 540px;
+    
+}
+
+.but_submit {
+
+    width: 154px;
+    height: 32px;
+    left: 20px;
+    right: 0%;
+    top: 500px;
+    bottom: 0%;
+
+}
+
+.title_but {
+
+    height: 18px;
+    left: 16.23%;
+    right: 16.88%;
+    top: calc(50% - 18px/2);
+
+}
+
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 370px) {
+
+body{ 
+
+    width: 100%;
+    height: 678px;
+
+}
+
+
+.registration {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 0;
+
+}
+
+.title_signup {
+
+    width: 100%;
+    height: 81px;
+    left: 0%;
+    top: 0%;
+
+}
+
+.title_SU {
+
+    width: 90%;
+    height: 63px;
+    left: 20px;
+    right: 0;
+    top: -10%;
+    font-size: 39px;
+    transform: rotate(0);
+
+}
+
+.signup {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 50px;
+
+}
+
+.form_su {
+
+    width: 100%;
+    height: 409px;
+    left: 0;
+    right: 22px;
+    top: 38.52px;
+    bottom: 32.48px;
+
+}
+
+.title_form {
+
+    width: 90%;
+    height: 26px;
+    left: 20px;
+    right: 77.32%;
+    top: calc(50% - 26px/2 - 211.5px);
+
+}
+
+.paragraph_form {
+
+    width: 90%;
+    height: 16px;
+    left: 20px;
+    right: 41.03%;
+    top: calc(50% - 16px/2 - 190.5px);
+ 
+}
+
+.form_name {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 40px;
+
+}
+
+.form_first_name {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 15.16%;
+    bottom: 74.57%;
+
+}
+
+.first_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0%;
+    right: 73.62%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_fn {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.17%;
+    right: 0.04%;
+    top: 79.76%;
+    bottom: -1.43%;
+
+}
+
+.form_ln {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 50px;
+    bottom: 74.57%;
+
+}
+
+.last_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 73.88%;
+    top: calc(50% - 14px/2 - 13.7px);
+
+}
+
+.input_ln {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_ne {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 135px;
+
+}
+
+.form_nat {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 29.34%;
+    bottom: 60.39%;
+
+}
+
+.nation {
+
+    height: 14px;
+    left: 0.17%;
+    right: 74.3%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_nation {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.input_nation option {
+
+    height: 16px;
+    left: 0.17%;
+    right: 72.17%;
+    top: calc(50% - 16px/2 + 5.67px);
+
+}
+
+.form_email {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 60px;
+    bottom: 60.39%;
+
+}
+
+.email {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 84.01%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_email {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_dbg {
+
+    width: 165px;
+    height: 43px;
+    left: 20px;
+    top: 238px;
+
+}
+
+.form_db {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 43.52%;
+    bottom: 45.97%;
+
+}
+
+.birth {
+
+    width: 82px;
+    height: 14px;
+    left: 0%;
+    right: 69.79%;
+    top: calc(50% - 14px/2 - 14.5px);
+
+}
+
+.input_data_birth {
+
+    width: 56px;
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_month_birth {
+
+    width: 91px;
+    height: 16px;
+    left: 25%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_year_birth {
+
+    width: 68px;
+    height: 16px;
+    left: 70.89%;
+    right: 0.17%;
+    top: 96.96%;
+    bottom: 1.63%;
+
+}
+
+.form_gen {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 80px;
+    bottom: 46.21%;
+
+}
+
+.gender {
+
+    height: 14px;
+    left: 0%;
+    right: 82.63%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.gender_male {
+
+    left: 0%;
+    right: 66.53%;
+    top: 45.95%;
+
+}
+
+.gender_female {
+
+    width: 80px;
+    left: 29.66%;
+    right: 41.1%;
+    top: 45.95%;
+
+}
+
+.f_pass {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 367px;
+
+}
+
+.password {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 57.95%;
+    bottom: 31.78%;
+
+}
+
+.title_pass {
+
+    height: 14px;
+    left: 0%;
+    right: 77.02%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_pass {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.confirm_pass {
+
+    width: 236px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 70px;
+    bottom: 31.78%;
+
+}
+
+.title_conf {
+
+    width: 122px;
+    height: 14px;
+    left: 0%;
+    right: 56.36%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_conf {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.59%;
+    right: 0.04%;
+    top: 79.05%;
+    bottom: -0.71%;
+
+}
+
+.login {
+
+    width: 167px;
+    height: 15px;
+    left: 20px;
+    right: 14.14%;
+    top: 540px;
+    
+}
+
+.but_submit {
+
+    width: 154px;
+    height: 32px;
+    left: 20px;
+    right: 0%;
+    top: 500px;
+    bottom: 0%;
+
+}
+
+.title_but {
+
+    height: 18px;
+    left: 16.23%;
+    right: 16.88%;
+    top: calc(50% - 18px/2);
+
+}
+
+}
+
+
+@media screen and (min-width: 371px) and (max-width: 410px)  {
+
+body{ 
+
+    width: 100%;
+    height: 678px;
+
+}
+
+
+.registration {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 0;
+
+}
+
+.title_signup {
+
+    width: 100%;
+    height: 81px;
+    left: 0%;
+    top: 0%;
+
+}
+
+.title_SU {
+
+    width: 90%;
+    height: 63px;
+    left: 20px;
+    right: 0;
+    top: -10%;
+    font-size: 39px;
+    transform: rotate(0);
+
+}
+
+.signup {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 50px;
+
+}
+
+.form_su {
+
+    width: 100%;
+    height: 409px;
+    left: 0;
+    right: 22px;
+    top: 38.52px;
+    bottom: 32.48px;
+
+}
+
+.title_form {
+
+    width: 90%;
+    height: 26px;
+    left: 20px;
+    right: 77.32%;
+    top: calc(50% - 26px/2 - 211.5px);
+
+}
+
+.paragraph_form {
+
+    width: 90%;
+    height: 16px;
+    left: 20px;
+    right: 41.03%;
+    top: calc(50% - 16px/2 - 190.5px);
+ 
+}
+
+.form_name {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 40px;
+
+}
+
+.form_first_name {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 15.16%;
+    bottom: 74.57%;
+
+}
+
+.first_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0%;
+    right: 73.62%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_fn {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.17%;
+    right: 0.04%;
+    top: 79.76%;
+    bottom: -1.43%;
+
+}
+
+.form_ln {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 50px;
+    bottom: 74.57%;
+
+}
+
+.last_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 73.88%;
+    top: calc(50% - 14px/2 - 13.7px);
+
+}
+
+.input_ln {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_ne {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 135px;
+
+}
+
+.form_nat {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 29.34%;
+    bottom: 60.39%;
+
+}
+
+.nation {
+
+    height: 14px;
+    left: 0.17%;
+    right: 74.3%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_nation {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.input_nation option {
+
+    height: 16px;
+    left: 0.17%;
+    right: 72.17%;
+    top: calc(50% - 16px/2 + 5.67px);
+
+}
+
+.form_email {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 60px;
+    bottom: 60.39%;
+
+}
+
+.email {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 84.01%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_email {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_dbg {
+
+    width: 165px;
+    height: 43px;
+    left: 20px;
+    top: 238px;
+
+}
+
+.form_db {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 43.52%;
+    bottom: 45.97%;
+
+}
+
+.birth {
+
+    width: 82px;
+    height: 14px;
+    left: 0%;
+    right: 69.79%;
+    top: calc(50% - 14px/2 - 14.5px);
+
+}
+
+.input_data_birth {
+
+    width: 56px;
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_month_birth {
+
+    width: 91px;
+    height: 16px;
+    left: 25%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_year_birth {
+
+    width: 68px;
+    height: 16px;
+    left: 70.89%;
+    right: 0.17%;
+    top: 96.96%;
+    bottom: 1.63%;
+
+}
+
+.form_gen {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 80px;
+    bottom: 46.21%;
+
+}
+
+.gender {
+
+    height: 14px;
+    left: 0%;
+    right: 82.63%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.gender_male {
+
+    left: 0%;
+    right: 66.53%;
+    top: 45.95%;
+
+}
+
+.gender_female {
+
+    width: 80px;
+    left: 29.66%;
+    right: 41.1%;
+    top: 45.95%;
+
+}
+
+.f_pass {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 367px;
+
+}
+
+.password {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 57.95%;
+    bottom: 31.78%;
+
+}
+
+.title_pass {
+
+    height: 14px;
+    left: 0%;
+    right: 77.02%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_pass {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.confirm_pass {
+
+    width: 236px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 70px;
+    bottom: 31.78%;
+
+}
+
+.title_conf {
+
+    width: 122px;
+    height: 14px;
+    left: 0%;
+    right: 56.36%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_conf {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.59%;
+    right: 0.04%;
+    top: 79.05%;
+    bottom: -0.71%;
+
+}
+
+.login {
+
+    width: 167px;
+    height: 15px;
+    left: 20px;
+    right: 14.14%;
+    top: 540px;
+    
+}
+
+.but_submit {
+
+    width: 154px;
+    height: 32px;
+    left: 20px;
+    right: 0%;
+    top: 500px;
+    bottom: 0%;
+
+}
+
+.title_but {
+
+    height: 18px;
+    left: 16.23%;
+    right: 16.88%;
+    top: calc(50% - 18px/2);
+
+}
+
+}
+
+
+@media screen and (min-width: 411px) and (max-width: 480px)  {
+
+body{ 
+
+    width: 100%;
+    height: 678px;
+
+}
+
+
+.registration {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 0;
+
+}
+
+.title_signup {
+
+    width: 100%;
+    height: 81px;
+    left: 0%;
+    top: 0%;
+
+}
+
+.title_SU {
+
+    width: 90%;
+    height: 63px;
+    left: 20px;
+    right: 0;
+    top: -10%;
+    font-size: 39px;
+    transform: rotate(0);
+
+}
+
+.signup {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 50px;
+
+}
+
+.form_su {
+
+    width: 100%;
+    height: 409px;
+    left: 0;
+    right: 22px;
+    top: 38.52px;
+    bottom: 32.48px;
+
+}
+
+.title_form {
+
+    width: 90%;
+    height: 26px;
+    left: 20px;
+    right: 77.32%;
+    top: calc(50% - 26px/2 - 211.5px);
+
+}
+
+.paragraph_form {
+
+    width: 90%;
+    height: 16px;
+    left: 20px;
+    right: 41.03%;
+    top: calc(50% - 16px/2 - 190.5px);
+ 
+}
+
+.form_name {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 40px;
+
+}
+
+.form_first_name {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 15.16%;
+    bottom: 74.57%;
+
+}
+
+.first_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0%;
+    right: 73.62%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_fn {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.17%;
+    right: 0.04%;
+    top: 79.76%;
+    bottom: -1.43%;
+
+}
+
+.form_ln {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 50px;
+    bottom: 74.57%;
+
+}
+
+.last_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 73.88%;
+    top: calc(50% - 14px/2 - 13.7px);
+
+}
+
+.input_ln {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_ne {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 135px;
+
+}
+
+.form_nat {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 29.34%;
+    bottom: 60.39%;
+
+}
+
+.nation {
+
+    height: 14px;
+    left: 0.17%;
+    right: 74.3%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_nation {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.input_nation option {
+
+    height: 16px;
+    left: 0.17%;
+    right: 72.17%;
+    top: calc(50% - 16px/2 + 5.67px);
+
+}
+
+.form_email {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 60px;
+    bottom: 60.39%;
+
+}
+
+.email {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 84.01%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_email {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_dbg {
+
+    width: 165px;
+    height: 43px;
+    left: 20px;
+    top: 238px;
+
+}
+
+.form_db {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 43.52%;
+    bottom: 45.97%;
+
+}
+
+.birth {
+
+    width: 82px;
+    height: 14px;
+    left: 0%;
+    right: 69.79%;
+    top: calc(50% - 14px/2 - 14.5px);
+
+}
+
+.input_data_birth {
+
+    width: 56px;
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_month_birth {
+
+    width: 91px;
+    height: 16px;
+    left: 25%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_year_birth {
+
+    width: 68px;
+    height: 16px;
+    left: 70.89%;
+    right: 0.17%;
+    top: 96.96%;
+    bottom: 1.63%;
+
+}
+
+.form_gen {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 80px;
+    bottom: 46.21%;
+
+}
+
+.gender {
+
+    height: 14px;
+    left: 0%;
+    right: 82.63%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.gender_male {
+
+    left: 0%;
+    right: 66.53%;
+    top: 45.95%;
+
+}
+
+.gender_female {
+
+    width: 80px;
+    left: 29.66%;
+    right: 41.1%;
+    top: 45.95%;
+
+}
+
+.f_pass {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 367px;
+
+}
+
+.password {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 57.95%;
+    bottom: 31.78%;
+
+}
+
+.title_pass {
+
+    height: 14px;
+    left: 0%;
+    right: 77.02%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_pass {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.confirm_pass {
+
+    width: 236px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 70px;
+    bottom: 31.78%;
+
+}
+
+.title_conf {
+
+    width: 122px;
+    height: 14px;
+    left: 0%;
+    right: 56.36%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_conf {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.59%;
+    right: 0.04%;
+    top: 79.05%;
+    bottom: -0.71%;
+
+}
+
+.login {
+
+    width: 167px;
+    height: 15px;
+    left: 20px;
+    right: 14.14%;
+    top: 540px;
+    
+}
+
+.but_submit {
+
+    width: 154px;
+    height: 32px;
+    left: 20px;
+    right: 0%;
+    top: 500px;
+    bottom: 0%;
+
+}
+
+.title_but {
+
+    height: 18px;
+    left: 16.23%;
+    right: 16.88%;
+    top: calc(50% - 18px/2);
+
+}
+
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 639px) {
+
+body{ 
+
+    width: 100%;
+    height: 678px;
+
+}
+
+
+.registration {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 0;
+
+}
+
+.title_signup {
+
+    width: 100%;
+    height: 81px;
+    left: 0%;
+    top: 0%;
+
+}
+
+.title_SU {
+
+    width: 90%;
+    height: 63px;
+    left: 20px;
+    right: 0;
+    top: -10%;
+    font-size: 39px;
+    transform: rotate(0);
+
+}
+
+.signup {
+
+    width: 100%;
+    height: 481px;
+    left: 0;
+    top: 50px;
+
+}
+
+.form_su {
+
+    width: 100%;
+    height: 409px;
+    left: 0;
+    right: 22px;
+    top: 38.52px;
+    bottom: 32.48px;
+
+}
+
+.title_form {
+
+    width: 90%;
+    height: 26px;
+    left: 20px;
+    right: 77.32%;
+    top: calc(50% - 26px/2 - 211.5px);
+
+}
+
+.paragraph_form {
+
+    width: 90%;
+    height: 16px;
+    left: 20px;
+    right: 41.03%;
+    top: calc(50% - 16px/2 - 190.5px);
+ 
+}
+
+.form_name {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 40px;
+
+}
+
+.form_first_name {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 15.16%;
+    bottom: 74.57%;
+
+}
+
+.first_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0%;
+    right: 73.62%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_fn {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.17%;
+    right: 0.04%;
+    top: 79.76%;
+    bottom: -1.43%;
+
+}
+
+.form_ln {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 50px;
+    bottom: 74.57%;
+
+}
+
+.last_name {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 73.88%;
+    top: calc(50% - 14px/2 - 13.7px);
+
+}
+
+.input_ln {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_ne {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 135px;
+
+}
+
+.form_nat {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 29.34%;
+    bottom: 60.39%;
+
+}
+
+.nation {
+
+    height: 14px;
+    left: 0.17%;
+    right: 74.3%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_nation {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.input_nation option {
+
+    height: 16px;
+    left: 0.17%;
+    right: 72.17%;
+    top: calc(50% - 16px/2 + 5.67px);
+
+}
+
+.form_email {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0%;
+    top: 60px;
+    bottom: 60.39%;
+
+}
+
+.email {
+
+    width: 72px;
+    height: 14px;
+    left: 0.38%;
+    right: 84.01%;
+    top: calc(50% - 14px/2 - 13.92px);
+
+}
+
+.input_email {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.84%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.f_dbg {
+
+    width: 165px;
+    height: 43px;
+    left: 20px;
+    top: 238px;
+
+}
+
+.form_db {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 43.52%;
+    bottom: 45.97%;
+
+}
+
+.birth {
+
+    width: 82px;
+    height: 14px;
+    left: 0%;
+    right: 69.79%;
+    top: calc(50% - 14px/2 - 14.5px);
+
+}
+
+.input_data_birth {
+
+    width: 56px;
+    height: 16px;
+    left: 0%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_month_birth {
+
+    width: 91px;
+    height: 16px;
+    left: 25%;
+    right: 0%;
+    top: 96.96%;
+    bottom: 0%;
+
+}
+
+.input_year_birth {
+
+    width: 68px;
+    height: 16px;
+    left: 70.89%;
+    right: 0.17%;
+    top: 96.96%;
+    bottom: 1.63%;
+
+}
+
+.form_gen {
+
+    width: 237px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 80px;
+    bottom: 46.21%;
+
+}
+
+.gender {
+
+    height: 14px;
+    left: 0%;
+    right: 82.63%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.gender_male {
+
+    left: 0%;
+    right: 66.53%;
+    top: 45.95%;
+
+}
+
+.gender_female {
+
+    width: 80px;
+    left: 29.66%;
+    right: 41.1%;
+    top: 45.95%;
+
+}
+
+.f_pass {
+
+    width: 165px;
+    height: 42px;
+    left: 20px;
+    top: 367px;
+
+}
+
+.password {
+
+    width: 235px;
+    height: 42px;
+    left: 0%;
+    right: 51.55%;
+    top: 57.95%;
+    bottom: 31.78%;
+
+}
+
+.title_pass {
+
+    height: 14px;
+    left: 0%;
+    right: 77.02%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_pass {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0%;
+    right: 0.21%;
+    top: 79.29%;
+    bottom: -0.95%;
+
+}
+
+.confirm_pass {
+
+    width: 236px;
+    height: 42px;
+    left: 0;
+    right: 0.1%;
+    top: 70px;
+    bottom: 31.78%;
+
+}
+
+.title_conf {
+
+    width: 122px;
+    height: 14px;
+    left: 0%;
+    right: 56.36%;
+    top: calc(50% - 14px/2 - 14px);
+
+}
+
+.input_conf {
+
+    width: 234.5px;
+    height: 16px;
+    left: 0.59%;
+    right: 0.04%;
+    top: 79.05%;
+    bottom: -0.71%;
+
+}
+
+.login {
+
+    width: 167px;
+    height: 15px;
+    left: 20px;
+    right: 14.14%;
+    top: 540px;
+    
+}
+
+.but_submit {
+
+    width: 154px;
+    height: 32px;
+    left: 20px;
+    right: 0%;
+    top: 500px;
+    bottom: 0%;
+
+}
+
+.title_but {
+
+    height: 18px;
+    left: 16.23%;
+    right: 16.88%;
+    top: calc(50% - 18px/2);
+
+}
+
+}

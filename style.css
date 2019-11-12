@@ -1,0 +1,625 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
+body{
+
+	margin: 0 0 0 0;
+	position: relative;
+	width: 800px;
+	height: 600px;
+	background-color: #F4F5FC;
+
+}
+
+.registration {
+
+	position: absolute;
+	width: 665px;
+	height: 481px;
+	left: 69px;
+	top: 60px;
+
+}
+
+.title_signup {
+
+	width: 138px;
+	height: 481px;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	background-color: #5A61ED;
+
+}
+
+.title_SU {
+
+	position: absolute;
+	width: 162px;
+	height: 63px;
+	left: 15.3%;
+	right: 65.34%;
+	top: 316.02px;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	line-height: 63px;
+	letter-spacing: 0.5px;
+	color: #FFFFFF;
+	transform: rotate(-90deg);
+
+}
+
+.signup {
+
+	position: absolute;
+	width: 528px;
+	height: 481px;
+	left: 137px;
+	top: 0px;
+
+}
+
+.form_su {
+
+	position: absolute;
+	width: 485px;
+	height: 409px;
+	left: 20.8px;
+	right: 22px;
+	top: 38.52px;
+	bottom: 32.48px;
+
+}
+
+.title_form {
+
+	position: absolute;
+	height: 26px;
+	left: 0%;
+	right: 77.32%;
+	top: calc(50% - 26px/2 - 211.5px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 26px;
+	letter-spacing: -0.46px;
+	color: #111111;
+
+}
+
+.paragraph_form {
+
+	position: absolute;
+	width: 386px;
+	height: 16px;
+	left: 0%;
+	right: 41.03%;
+	top: calc(50% - 16px/2 - 190.5px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 16px;
+	color: #111111;
+
+}
+
+.form_name {
+
+	position: absolute;
+	width: 485px;
+	height: 42px;
+	left: 0px;
+	top: 32px;
+
+}
+
+.form_first_name {
+
+	position: absolute;
+	width: 235px;
+	height: 42px;
+	left: 0%;
+	right: 51.55%;
+	top: 15.16%;
+	bottom: 74.57%;
+
+}
+
+.first_name {
+
+	position: absolute;
+	width: 72px;
+	height: 14px;
+	left: 0%;
+	right: 73.62%;
+	top: calc(50% - 14px/2 - 14px);
+	z-index: 101;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_fn {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0.17%;
+	right: 0.04%;
+	top: 79.76%;
+	bottom: -1.43%;
+	background: #F2F2F2;
+	border: 0;
+
+}
+
+.form_ln {
+
+	position: absolute;
+	width: 237px;
+	height: 42px;
+	left: 51.13%;
+	right: 0%;
+	top: 15.16%;
+	bottom: 74.57%;
+
+}
+
+.last_name {
+
+	position: absolute;
+	width: 72px;
+	height: 14px;
+	left: 0.38%;
+	right: 73.88%;
+	top: calc(50% - 14px/2 - 13.7px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_ln {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0.84%;
+	right: 0.21%;
+	top: 79.29%;
+	bottom: -0.95%;
+	background: #F2F2F2;
+	border: 0;
+
+}
+
+.f_ne {
+
+	position: absolute;
+	width: 485px;
+	height: 42px;
+	left: 0px;
+	top: 90px;
+
+}
+
+.form_nat {
+
+	position: absolute;
+	width: 235px;
+	height: 42px;
+	left: 0%;
+	right: 51.55%;
+	top: 29.34%;
+	bottom: 60.39%;
+
+}
+
+.nation {
+
+	position: absolute;
+	height: 14px;
+	left: 0.17%;
+	right: 74.3%;
+	top: calc(50% - 14px/2 - 13.92px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_nation {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0%;
+	right: 0.21%;
+	top: 79.29%;
+	bottom: -0.95%;
+	background: #F2F2F2;
+	border: 0;
+
+}
+
+.input_nation option {
+
+	position: absolute;
+	height: 16px;
+	left: 0.17%;
+	right: 72.17%;
+	top: calc(50% - 16px/2 + 5.67px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #111111;
+
+}
+
+.form_email {
+
+	position: absolute;
+	width: 237px;
+	height: 42px;
+	left: 51.13%;
+	right: 0%;
+	top: 29.34%;
+	bottom: 60.39%;
+
+}
+
+.email {
+
+	position: absolute;
+	width: 72px;
+	height: 14px;
+	left: 0.38%;
+	right: 84.01%;
+	top: calc(50% - 14px/2 - 13.92px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_email {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0.84%;
+	right: 0.21%;
+	top: 79.29%;
+	bottom: -0.95%;
+	background: #F2F2F2;
+	border: 0;
+
+}
+
+.f_dbg {
+
+	position: absolute;
+	width: 485px;
+	height: 43px;
+	left: 0px;
+	top: 158px;
+
+}
+
+.form_db {
+
+	position: absolute;
+	width: 235px;
+	height: 42px;
+	left: 0%;
+	right: 51.55%;
+	top: 43.52%;
+	bottom: 45.97%;
+
+}
+
+.birth {
+
+	position: absolute;
+	width: 82px;
+	height: 14px;
+	left: 0%;
+	right: 69.79%;
+	top: calc(50% - 14px/2 - 14.5px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_data_birth {
+
+	position: absolute;
+	width: 56px;
+	height: 16px;
+	left: 0%;
+	right: 0%;
+	top: 96.96%;
+	bottom: 0%;
+	background: #F2F2F2;
+	border: 0;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #111111;
+
+}
+
+.input_month_birth {
+
+	position: absolute;
+	width: 91px;
+	height: 16px;
+	left: 25%;
+	right: 0%;
+	top: 96.96%;
+	bottom: 0%;
+	background: #F2F2F2;
+	border: 0;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #111111;
+
+}
+
+.input_year_birth {
+
+	position: absolute;
+	width: 68px;
+	height: 16px;
+	left: 70.89%;
+	right: 0.17%;
+	top: 96.96%;
+	bottom: 1.63%;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #111111;
+	border: 0;
+
+}
+
+.form_gen {
+
+	position: absolute;
+	width: 237px;
+	height: 42px;
+	left: 51.24%;
+	right: 0.1%;
+	top: 43.52%;
+	bottom: 46.21%;
+
+}
+
+.gender {
+
+	position: absolute;
+	height: 14px;
+	left: 0%;
+	right: 82.63%;
+	top: calc(50% - 14px/2 - 14px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.gender_male {
+
+	position: absolute;
+	left: 0%;
+	right: 66.53%;
+	top: 45.95%;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+
+}
+
+.gender_female {
+
+	position: absolute;
+	width: 80px;
+	left: 29.66%;
+	right: 41.1%;
+	top: 45.95%;
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+
+}
+
+.f_pass {
+
+	position: absolute;
+	width: 485px;
+	height: 42px;
+	left: 0px;
+	top: 227px;
+
+}
+
+.password {
+
+	position: absolute;
+	width: 235px;
+	height: 42px;
+	left: 0%;
+	right: 51.55%;
+	top: 57.95%;
+	bottom: 31.78%;
+
+}
+
+.title_pass {
+
+	position: absolute;
+	height: 14px;
+	left: 0%;
+	right: 77.02%;
+	top: calc(50% - 14px/2 - 14px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_pass {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0%;
+	right: 0.21%;
+	top: 79.29%;
+	bottom: -0.95%;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 21px;
+	letter-spacing: 1px;
+	color: #111111;
+	background: #F2F2F2;
+	border: 0;
+
+}
+
+.confirm_pass {
+
+	position: absolute;
+	width: 236px;
+	height: 42px;
+	left: 51.24%;
+	right: 0.1%;
+	top: 57.95%;
+	bottom: 31.78%;
+
+}
+
+.title_conf {
+
+	position: absolute;
+	width: 122px;
+	height: 14px;
+	left: 0%;
+	right: 56.36%;
+	top: calc(50% - 14px/2 - 14px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 14px;
+	color: #7C7C7C;
+
+}
+
+.input_conf {
+
+	position: absolute;
+	width: 234.5px;
+	height: 16px;
+	left: 0.59%;
+	right: 0.04%;
+	top: 79.05%;
+	bottom: -0.71%;
+	background: #F2F2F2;
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 21px;
+	border: 0;
+
+}
+
+.login {
+
+	position: absolute;
+	width: 167px;
+	height: 15px;
+	left: 0%;
+	right: 14.14%;
+	top: calc(50% - 15px/2 + 189px);
+	font-family: Work Sans;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 15px;
+	color: #000000;
+	
+}
+
+.but_submit {
+
+	position: absolute;
+	width: 154px;
+	height: 32px;
+	left: 68.25%;
+	right: 0%;
+	top: calc(50% - 15px/2 + 189px);
+	bottom: 0%;
+	background: #5A61ED;
+	border: 0.5px solid #FFFFFF;
+
+}
+
+.title_but {
+
+	position: absolute;
+	height: 18px;
+	left: 16.23%;
+	right: 16.88%;
+	top: calc(50% - 18px/2);
+	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 18px;
+	color: #FFFFFF;
+
+}
